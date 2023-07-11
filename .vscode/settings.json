@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\rasta\\Downloads\\junit-platform-testkit-1.8.0-RC1.jar",
+        "c:\\Users\\rasta\\Downloads\\junit-platform-console-standalone-1.8.0-M1.jar",
+        "c:\\Users\\rasta\\Downloads\\junit-platform-testkit-1.8.0-RC1-javadoc.jar",
+        "c:\\Users\\rasta\\Downloads\\junit-platform-console-standalone-1.8.0-RC1.jar",
+        "c:\\Users\\kaifr\\OneDrive\\Documents\\swen\\junit-platform-console-standalone-1.9.2.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+
+}
